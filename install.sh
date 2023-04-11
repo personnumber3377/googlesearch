@@ -1,0 +1,1 @@
+sudo cp ./s /usr/bin/s
